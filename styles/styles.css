@@ -43,7 +43,7 @@ article {
     margin-top: 15px;
 }
 
-.informacion h1 {
+.informacion h2 {
     font-size: 24px;
     margin-bottom: 10px;
 }
@@ -61,9 +61,10 @@ article {
 
 .link li {
     text-decoration: none;
+    font-weight: 700;
     background-color: var(--button-color);
     color: var(--text-color);
-    padding: 10px 95px;
+    padding: 15px 95px;
     border-radius: 5px;
     margin-bottom: 15px;
     cursor: pointer;
